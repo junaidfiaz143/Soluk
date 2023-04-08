@@ -1,0 +1,12 @@
+export './view/account_settings.dart';
+export './view/change_password.dart';
+export './view/faqs.dart';
+export './view/feedback.dart';
+export './view/languages.dart';
+export './view/notifications.dart';
+export './view/privacy_policy.dart';
+export './view/promo_code.dart';
+export './view/suggestion_details.dart';
+export './view/suggestions.dart';
+export './view/support.dart';
+export './view/terms_condition.dart';

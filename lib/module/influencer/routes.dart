@@ -1,0 +1,12 @@
+export './login/view/login_screen.dart';
+export './login/view/create_password_screen.dart';
+export './login/view/forgot_password_screen.dart';
+export './login/view/pre_registration_screen.dart';
+export './login/view/reset_password_screen.dart';
+export './login/view/sign_up_screen.dart';
+export './login/view/verification_pin_screen.dart';
+export './challenges/view/challenges_screen.dart';
+export './main_screen/view/analytics_screen.dart';
+export './main_screen/view/dashboard_screen.dart';
+export './main_screen/view/more_screen.dart';
+export './main_screen/view/work_plan_screen.dart';

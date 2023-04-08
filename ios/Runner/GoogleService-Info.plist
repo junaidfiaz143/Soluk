@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>835024682239-98bq9oij57hv5ijb84il3u7govi57ev0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.835024682239-98bq9oij57hv5ijb84il3u7govi57ev0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>835024682239-5g2ss012kjut5b3sj9b66d3qf3vd9u5l.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyClvAbzivLtxboBrZsfJc-b7hPFK8biD6w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>835024682239</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.saluk.app</string>
+	<key>PROJECT_ID</key>
+	<string>onlinesalepoint-cfaad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>onlinesalepoint-cfaad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:835024682239:ios:d82e0093c22f82ad41e0ca</string>
+	<key>DATABASE_URL</key>
+	<string>https://onlinesalepoint-cfaad.firebaseio.com</string>
+</dict>
+</plist>

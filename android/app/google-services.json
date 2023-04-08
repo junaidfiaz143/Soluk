@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217549507666",
+    "project_id": "soluk-47232",
+    "storage_bucket": "soluk-47232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217549507666:android:72d2b7c366fd062598238b",
+        "android_client_info": {
+          "package_name": "com.saluk.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217549507666-v0lb3icedl394lauatr6nctt4lo28t1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaI-hkwTiuXWTqAZdOazOS2N_4RUywV-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217549507666-v0lb3icedl394lauatr6nctt4lo28t1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
